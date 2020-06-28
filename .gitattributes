@@ -1,0 +1,2 @@
+data/myChem2Pubtator/chem2pubtator_PMID_sort filter=lfs diff=lfs merge=lfs -text
+data/myMeta2Pubtator/meta2pubtator_PMID_sort filter=lfs diff=lfs merge=lfs -text
