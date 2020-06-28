@@ -1,0 +1,2 @@
+species=human-> count_Big_F=17818792
+Calculating PURPOSE[meta2pubtator] Score [query=type+i+diabetes+AND+human].

@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17542583
+Calculating PURPOSE Score [query=endocrine+system+AND+human]..count_Big_T=231522....[total citaion]=406168...Finished!---> Execucution:14 seconds
+Extracting PMIDs [query=endocrine+system+AND+human]..PMID#=604....Finished!---> Execucution:1 seconds

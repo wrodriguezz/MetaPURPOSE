@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17542583
+Calculating PURPOSE Score [query=tuberous+sclerosis+complex+AND+human]..count_Big_T=7566....[total citaion]=25980...Finished!---> Execucution:5 seconds
+Extracting PMIDs [query=tuberous+sclerosis+complex+AND+human]..PMID#=154.Finished!---> Execucution:0 seconds

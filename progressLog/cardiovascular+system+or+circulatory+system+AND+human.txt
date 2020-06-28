@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17524884
+Calculating PURPOSE Score [query=cardiovascular+system+or+circulatory+system+AND+human]..count_Big_T=859333....[total citaion]=640388...Finished!---> Execucution:10 seconds
+Extracting PMIDs [query=cardiovascular+system+or+circulatory+system+AND+human]..PMID#=1671.........Finished!---> Execucution:6 seconds

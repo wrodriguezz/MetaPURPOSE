@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17542583
+Calculating PURPOSE Score [query=brain+AND+human]..count_Big_T=1012698....[total citaion]=1641270...Finished!---> Execucution:26 seconds
+Extracting PMIDs [query=brain+AND+human]..PMID#=1980..........Finished!---> Execucution:5 seconds

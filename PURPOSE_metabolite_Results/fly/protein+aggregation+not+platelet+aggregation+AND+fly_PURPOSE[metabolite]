@@ -1,0 +1,18 @@
+Big_T	21
+Big_F	28793
+HMDB_ID	metabolite_Name	PURPOSE_Score	Big_P	T+P	Citation	1+Log(T+P)	log10((Cit/yr+1)/10)	1+log10(F/T)+log10(F/P)
+HMDB01906	2-Aminoisobutyric acid	5.313	1912	1	0	1.0	0.0	5.313
+HMDB01112	D-Glyceraldehyde 3-phosphate	4.836	5506	1	1	1.0	0.0	4.836
+HMDB02269	Curcumin	4.739	6126	1	2	1.0	0.0	4.739
+HMDB01273	Guanosine triphosphate	4.137	25962	1	0	1.0	0.0	4.137
+HMDB00168	L-Asparagine	4.137	21983	1	0	1.0	0.0	4.137
+HMDB00517	L-Arginine	1.301	55365	1	19	1.0	0.301	1.0
+HMDB01303	Zinc (II) ion	1.0	72884	1	1	1.0	0.0	1.0
+HMDB00259	Serotonin	1.0	83959	1	0	1.0	0.0	1.0
+HMDB00045	Adenosine monophosphate	1.0	36381	1	6	1.0	0.0	1.0
+HMDB00464	Calcium	1.0	297132	1	2	1.0	0.0	1.0
+HMDB01377	Oxygen	1.0	393422	1	2	1.0	0.0	1.0
+HMDB00687	L-Leucine	1.0	38399	1	0	1.0	0.0	1.0
+HMDB03339	D-Glutamic acid	1.0	75421	1	2	1.0	0.0	1.0
+HMDB00073	Dopamine	1.0	104016	1	5	1.0	0.0	1.0
+HMDB00574	L-Cysteine	1.0	67988	1	2	1.0	0.0	1.0

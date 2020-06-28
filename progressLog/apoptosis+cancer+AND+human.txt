@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17542583
+Calculating PURPOSE Score [query=apoptosis+cancer+AND+human]..count_Big_T=144260....[total citaion]=590750...Finished!---> Execucution:5 seconds
+Extracting PMIDs [query=apoptosis+cancer+AND+human]..PMID#=1926..........Finished!---> Execucution:5 seconds

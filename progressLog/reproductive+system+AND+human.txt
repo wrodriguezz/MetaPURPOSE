@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17542583
+Calculating PURPOSE Score [query=reproductive+system+AND+human]..count_Big_T=325103....[total citaion]=373315...Finished!---> Execucution:16 seconds
+Extracting PMIDs [query=reproductive+system+AND+human]..PMID#=230..Finished!---> Execucution:0 seconds

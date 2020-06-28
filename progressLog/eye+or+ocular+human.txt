@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17498431
+Calculating PURPOSE Score [query=eye+or+ocular+human+human]..count_Big_T=626377....[total citaion]=380125...Finished!---> Execucution:16 seconds
+Extracting PMIDs [query=eye+or+ocular+human+human]..PMID#=382.Finished!---> Execucution:1 seconds

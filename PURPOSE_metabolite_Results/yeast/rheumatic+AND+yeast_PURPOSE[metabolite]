@@ -1,0 +1,4 @@
+Big_T	2
+Big_F	267876
+HMDB_ID	metabolite_Name	PURPOSE_Score	Big_P	T+P	Citation	1+Log(T+P)	log10((Cit/yr+1)/10)	1+log10(F/T)+log10(F/P)
+HMDB14496	Thioguanine	8.127	2655	1	0	1.0	0.0	8.127

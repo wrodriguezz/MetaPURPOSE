@@ -1,0 +1,14 @@
+Big_T	17
+Big_F	28793
+HMDB_ID	metabolite_Name	PURPOSE_Score	Big_P	T+P	Citation	1+Log(T+P)	log10((Cit/yr+1)/10)	1+log10(F/T)+log10(F/P)
+HMDB15015	Sirolimus	5.502	23692	2	0	1.301	0.0	4.229
+HMDB01960	Tin	5.183	3146	1	3	1.0	0.0	5.183
+HMDB00082	Cytidine triphosphate	5.007	4587	1	1	1.0	0.0	5.007
+HMDB33261	Mulberrofuran M	4.831	7026	1	0	1.0	0.0	4.831
+HMDB01201	Guanosine diphosphate	4.53	11478	1	6	1.0	0.0	4.53
+HMDB00045	Adenosine monophosphate	1.602	36381	4	2	1.602	0.0	1.0
+HMDB01377	Oxygen	1.301	393422	2	5	1.301	0.0	1.0
+HMDB01303	Zinc (II) ion	1.0	72884	1	1	1.0	0.0	1.0
+HMDB00464	Calcium	1.0	297132	1	1	1.0	0.0	1.0
+HMDB00687	L-Leucine	1.0	38399	1	4	1.0	0.0	1.0
+HMDB00158	L-Tyrosine	1.0	134658	1	4	1.0	0.0	1.0

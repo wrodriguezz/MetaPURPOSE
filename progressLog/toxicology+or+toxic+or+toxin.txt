@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17524884
+Calculating PURPOSE Score [query=toxicology+or+toxic+or+toxin+human]..count_Big_T=507744....[total citaion]=935675...Finished!---> Execucution:30 seconds
+Extracting PMIDs [query=toxicology+or+toxic+or+toxin+human]..PMID#=913.....Finished!---> Execucution:3 seconds

@@ -1,0 +1,5 @@
+Big_T	3
+Big_F	267876
+MESH_ID	Chemical_Name	MESH_ParentTree	PURPOSE_Score	Big_P	T+P	Citation	1+Log(T+P)	log10((Cit/yr+1)/10)	1+log10(F/T)+log10(F/P)
+MESH:D008351	Mannans	D09.698	8.168	1618	1	0	1.0	0.0	8.168
+MESH:D013866	Thioguanine	D03.633.100.759	7.924	2838	1	0	1.0	0.0	7.924

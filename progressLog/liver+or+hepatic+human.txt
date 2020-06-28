@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17516143
+Calculating PURPOSE Score [query=liver+or+hepatic+human+human]..count_Big_T=1080066....[total citaion]=917546...Finished!---> Execucution:9 seconds
+Extracting PMIDs [query=liver+or+hepatic+human+human]..PMID#=2348...Finished!---> Execucution:4 seconds

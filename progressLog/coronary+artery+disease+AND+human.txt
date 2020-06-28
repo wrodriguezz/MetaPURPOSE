@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17818792
+Calculating PURPOSE[chem2pubtator] Score [query=coronary+artery+disease+AND+human]..count_Big_T=14164....[total citaion]=115204...Finished!---> Execucution:9 seconds
+Extracting PMIDs [query=coronary+artery+disease+AND+human]..PMID#=273..Finished!---> Execucution:0 seconds

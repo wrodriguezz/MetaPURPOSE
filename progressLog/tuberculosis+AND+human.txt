@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17542583
+Calculating PURPOSE Score [query=tuberculosis+AND+human]..count_Big_T=182979....[total citaion]=35794...Finished!---> Execucution:6 seconds
+Extracting PMIDs [query=tuberculosis+AND+human]..PMID#=118.Finished!---> Execucution:0 seconds

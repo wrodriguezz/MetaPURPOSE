@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17629153
+Calculating PURPOSE[chem2pubtator] Score [query=muscle+or+bone+or+musculoskeletal+AND+human]..count_Big_T=128902....[total citaion]=1251738...Finished!---> Execucution:37 seconds
+Extracting PMIDs [query=muscle+or+bone+or+musculoskeletal+AND+human]..PMID#=2320............Finished!---> Execucution:6 seconds

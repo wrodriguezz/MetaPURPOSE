@@ -1,0 +1,2 @@
+species=human-> count_Big_F=17795051
+Calculating PURPOSE[meta2pubtator] Score [query=protein+aggregation+AND+human].

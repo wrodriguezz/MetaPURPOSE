@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17516143
+Calculating PURPOSE Score [query=cancer+human+human]..count_Big_T=3085891....[total citaion]=5686727...Finished!---> Execucution:26 seconds
+Extracting PMIDs [query=cancer+human+human]..PMID#=0Finished!---> Execucution:0 seconds

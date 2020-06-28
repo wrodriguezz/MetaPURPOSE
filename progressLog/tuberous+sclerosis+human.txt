@@ -1,0 +1,3 @@
+species=human-> count_Big_F=17524884
+Calculating PURPOSE Score [query=tuberous+sclerosis+human]..count_Big_T=7562....[total citaion]=31161...Finished!---> Execucution:9 seconds
+Extracting PMIDs [query=tuberous+sclerosis+human]..PMID#=138.Finished!---> Execucution:0 seconds

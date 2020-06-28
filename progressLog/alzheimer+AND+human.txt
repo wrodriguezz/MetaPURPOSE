@@ -1,0 +1,2 @@
+species=human-> count_Big_F=17789846
+Calculating PURPOSE[meta2pubtator] Score [query=alzheimer+AND+human].
